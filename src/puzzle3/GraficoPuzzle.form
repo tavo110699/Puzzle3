@@ -282,7 +282,7 @@
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/puzzleandres/IMAGENES/f70c8b85f02b4b2fe33f64aa2b4cd75d-bot-n-de-parada-del-icono-cerrar-by-vexels_opt.png"/>
+              <Image iconType="3" name="/puzzle3/IMAGENES/f70c8b85f02b4b2fe33f64aa2b4cd75d-bot-n-de-parada-del-icono-cerrar-by-vexels_opt.png"/>
             </Property>
           </Properties>
           <Events>

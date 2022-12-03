@@ -1,4 +1,4 @@
-package puzzleandres;
+package puzzle3;
 
 import java.awt.Color;
 import java.util.ArrayList;
@@ -416,7 +416,7 @@ public class GraficoPuzzle extends javax.swing.JFrame {
             }
         });
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/puzzleandres/IMAGENES/f70c8b85f02b4b2fe33f64aa2b4cd75d-bot-n-de-parada-del-icono-cerrar-by-vexels_opt.png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/puzzle3/IMAGENES/f70c8b85f02b4b2fe33f64aa2b4cd75d-bot-n-de-parada-del-icono-cerrar-by-vexels_opt.png"))); // NOI18N
         jLabel2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel2MouseClicked(evt);
